@@ -1,4 +1,5 @@
 # Solitaire
+![Solitaire](logo.png)
 
 ## Spis treści
 - [Opis](#opis)
